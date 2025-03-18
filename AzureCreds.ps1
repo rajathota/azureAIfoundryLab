@@ -1,0 +1,5 @@
+$AzureUserName="odl_user_1642928@msazurelabs.onmicrosoft.com"
+$AzurePassword="iqbv62TSG*RW"
+$AzureTenantID="cefcb8e7-ee30-49b8-b190-133f1daafd85"
+$AzureSubscriptionID="db6b8621-51b0-4417-a069-65f2eeb10206"
+$DeploymentID="1642928"
